@@ -1,39 +1,41 @@
-# Dan Sullivan
+# Hi, I'm Dan
 
-Senior Full-Stack Software Engineer specializing in building scalable systems and intelligent applications.
+**Senior Full-Stack Engineer** | **UPenn MSE (AI)** | **Former D1 Athlete**
 
-## About Me
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-web-services&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Bun](https://img.shields.io/badge/-Bun-000000?style=flat-square&logo=bun&logoColor=white)
+![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
 
-I'm a senior-level engineer with extensive experience in Javascript, TypeScript, and modern web technologies, currently seeking opportunities at innovative startups and quantitative investment firms where I can contribute to complex technical challenges while expanding my expertise in emerging technologies.
+> Building at the intersection of full-stack engineering and AI. I ship fast, architect for scale, and believe interfaces should be experiences, not obstacles.
 
-My background spans full-stack development, API architecture, and production-grade system design. I'm particularly drawn to roles where engineering excellence directly impacts business outcomes, whether that's building trading infrastructure, developing data-intensive platforms, or creating tools that enable better decision-making.
+## Current Projects
 
-## Recent Technical Work
+- **[Portfolio Intelligence Agent](https://github.com/drsullivan13/portfolio-intelligence-agent)** - AI-powered investment intelligence system: SEC filing analysis, RAG with Pinecone, Claude Sonnet 4.5, event-driven serverless on AWS
+- **[Portfolio Intelligence UI](https://github.com/drsullivan13/portfolio-intelligence-agent-ui)** - Dashboard for the agent: real-time event feeds, Slack integration, auth with session management
+- **[Alt Data Dashboard](https://github.com/drsullivan13/alt-data-dashboard)** - NLP-powered analytics platform correlating alternative data signals with stock performance (Next.js, Claude, Supabase) | [Live](https://fin-data-dashboard.vercel.app)
+- **[ReguTrade](https://github.com/drsullivan13/regutrade)** - Institutional-grade DeFi trade execution on Base L2 with compliance reporting, Uniswap V3 direct contract integration
+- **[Portfolio Arcade](https://github.com/drsullivan13/dansullivan)** - My portfolio site reimagined as a 60fps space shooter game engine in React + Canvas
+- **[Weather MCP Server](https://github.com/drsullivan13/weather-server)** - Model Context Protocol server with ATXP micropayment integration for monetizing LLM tool calls
 
-**Alternative Data Intelligence Dashboard** – Built a production-ready financial analysis platform over a weekend for a hedge fund interview, featuring natural language query parsing, automated price predictor discovery, and comprehensive authentication systems. The application demonstrates rapid prototyping capabilities while maintaining production-quality code standards and security practices.
+## Other Work
 
-**Model Context Protocol Integration** – Exploring cutting-edge AI integration patterns through ATXP payment systems work, investigating how to build robust interfaces between language models and external systems for real-world applications.
+- **[Freedom League](https://github.com/drsullivan13/freedom-league-ui)** + **[Fantasy Sports Hub](https://github.com/drsullivan13/fantasy-sports-hub)** - Custom fantasy football platform with ESPN API integration | [Live](https://freedom-league-ui.vercel.app)
+- **[News Dash](https://github.com/drsullivan13/news-dash)** + **[API](https://github.com/drsullivan13/news-dash-api)** - Company news tracker with multi-source filtering and Excel export | [Live](https://news-dash-tan.vercel.app)
+- **[Ratatouille](https://github.com/drsullivan13/ratatouille-ui)** + **[API](https://github.com/drsullivan13/ratatouille-api)** - AI-powered recipe generator with model selection (Next.js, Claude/GPT)
 
-**Machine Learning Research** – Actively developing reinforcement learning and fine-tuning implementations to deepen my understanding of how modern AI systems learn and adapt, with a focus on practical applications in prediction and decision-making systems.
+## What I'm Doing
 
-## Technical Expertise
+- **Studying AI** at UPenn (CIS 5210 - Artificial Intelligence, Spring 2026)
+- **Building financial tools** - event-driven pipelines, RAG architectures, real-time analytics
+- **Exploring agentic engineering** - MCP servers, AI-native development workflows
 
-My core strengths include Javascript backend development, TypeScript and JavaScript for full-stack applications, Express API design, and modern React frameworks including Next.js. I have significant experience with distributed systems concepts, database architecture, and building secure authentication systems.
+## Connect
 
-I'm currently expanding my capabilities in machine learning implementation, reinforcement learning techniques, and advanced integration patterns for AI-powered applications. I believe the most impactful engineering work happens at the intersection of solid fundamentals and emerging technologies.
-
-## What I'm Looking For
-
-I'm seeking senior engineering positions where I can contribute immediately while continuing to grow technically. The ideal role involves complex system design challenges, opportunities to work with quantitative or financial data, and a team culture that values both engineering excellence and rapid innovation.
-
-I'm particularly interested in environments where engineers have significant ownership over architecture decisions and where there's exposure to cutting-edge technologies that push the boundaries of what's possible in software development.
-
-## Background
-
-Former Division 1 varsity athlete who brings the same discipline and competitive drive to software engineering that I brought to athletics. I approach technical challenges with a methodical, results-oriented mindset and thrive in environments that demand both precision and creativity.
-
-When I'm not coding, I maintain an active interest sports, enjoy building custom applications for personal projects including fantasy sports analytics and recipe generation, and continuously explore new technologies through hands-on experimentation.
-
----
-
-Feel free to reach out if you're building something interesting or if you think there might be a mutual fit for collaboration.
+[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/drsullivan13)
+[![LinkedIn](https://img.shields.io/badge/-Dan_Sullivan-0077B5?style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/drsullivan13](https://www.linkedin.com/in/danielsullivan2025/))
