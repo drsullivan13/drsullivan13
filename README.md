@@ -16,10 +16,10 @@
 
 ## Current Projects
 
-- **[Portfolio Intelligence Agent](https://github.com/drsullivan13/portfolio-intelligence-agent)** - AI-powered investment intelligence system: SEC filing analysis, RAG with Pinecone, Claude Sonnet 4.5, event-driven serverless on AWS
+- **[Portfolio Intelligence Agent](https://github.com/drsullivan13/portfolio-intelligence-agent)** - AI-powered investment intelligence system: SEC filing analysis, RAG with Pinecone, Claude Sonnet 4.5, event-driven serverless on AWS | [Demo](https://www.youtube.com/watch?v=sEtuzD5Z9j0&list=PL--sOUbTSgLcXMvHaxZW1xhI6LzTeE9YU&index=1)
 - **[Portfolio Intelligence UI](https://github.com/drsullivan13/portfolio-intelligence-agent-ui)** - Dashboard for the agent: real-time event feeds, Slack integration, auth with session management
-- **[Alt Data Dashboard](https://github.com/drsullivan13/alt-data-dashboard)** - NLP-powered analytics platform correlating alternative data signals with stock performance (Next.js, Claude, Supabase) | [Live](https://fin-data-dashboard.vercel.app)
-- **[ReguTrade](https://github.com/drsullivan13/regutrade)** - Institutional-grade DeFi trade execution on Base L2 with compliance reporting, Uniswap V3 direct contract integration
+- **[Alt Data Dashboard](https://github.com/drsullivan13/alt-data-dashboard)** - NLP-powered analytics platform correlating alternative data signals with stock performance (Next.js, Claude, Supabase) | [Live](https://fin-data-dashboard.vercel.app) | [Demo](https://youtu.be/U5ij0jMuTFQ?si=NMhsZuCoDVxjsK2-)
+- **[ReguTrade](https://github.com/drsullivan13/regutrade)** - Institutional-grade DeFi trade execution on Base L2 with compliance reporting, Uniswap V3 direct contract integration | [Demo](https://youtu.be/Nem_Km6Ty4c?si=YJ4Xhy7j13TVeAkL)
 - **[Portfolio Arcade](https://github.com/drsullivan13/dansullivan)** - My portfolio site reimagined as a 60fps space shooter game engine in React + Canvas
 - **[Weather MCP Server](https://github.com/drsullivan13/weather-server)** - Model Context Protocol server with ATXP micropayment integration for monetizing LLM tool calls
 
